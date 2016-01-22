@@ -1,4 +1,4 @@
 # IntroduccionBI
 Introducción a BI
 
-I love :coffe and :dance
+I love :coffee: and :dancer:
